@@ -91,3 +91,5 @@ Modifications and additions are subject to the same license.
 🛠️ The open-source community
 
 💬 Everyone who helped shape this revival
+
+🎉 Made with passion by Ifaz2611 – keeping voxel magic alive.
